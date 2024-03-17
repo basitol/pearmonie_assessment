@@ -12,9 +12,11 @@ This React Native project, developed with Expo, features a transaction list scre
 
 To get started with this project, follow these steps:
 
-1. Clone the repository:
+1. **Clone the repository:**
+   ```sh
    git clone https://github.com/basitol/pearmonie_assessment.git
 
+   ```
 2. Navigate to the project directory:
    cd pearmonie_assessment
 
