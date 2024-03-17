@@ -33,12 +33,12 @@ To get started with this project, follow these steps:
 
    ```
 
-or if you prefer yarn:
+4. or if you prefer yarn:
 
-    ```sh
-    yarn
+   ```sh
+   yarn
 
-    ```
+   ```
 
 ## Running the App with Expo
 
