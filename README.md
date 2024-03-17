@@ -37,6 +37,7 @@ or if you prefer yarn:
 
     ```sh
     yarn
+
     ```
 
 ## Running the App with Expo
