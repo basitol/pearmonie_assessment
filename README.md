@@ -21,22 +21,23 @@ To get started with this project, follow these steps:
 
 2. **Navigate to the project directory:**
 
-```sh
+   ```sh
    cd pearmonie_assessment
 
-```
+   ```
 
 3. Install the dependencies:
 
    ```sh
-        npm install
+   npm install
 
    ```
 
 or if you prefer yarn:
 
-```sh
+    ```sh
     yarn
+    ```
 
 ## Running the App with Expo
 
@@ -55,6 +56,8 @@ Contributions are welcome! For major changes, please open an issue first to disc
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+```
 
 ```
 
