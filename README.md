@@ -43,10 +43,18 @@ To get started with this project, follow these steps:
 ## Running the App with Expo
 
 Ensure you have Expo CLI installed. If not, you can install it globally with npm by running:
+
+```sh
 npm install -g expo-cli
 
+```
+
 Then start the app with:
-expo start
+
+```sh
+npx expo start
+
+```
 
 This command will open up a browser window with a QR code. Scan this QR code with your Expo Go app on your iOS or Android device to see the app live.
 
